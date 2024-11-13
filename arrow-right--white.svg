@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="14px" viewBox="0 0 12 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>da-vinci/arrow-right--white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="da-vinci/arrow-right--white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <line x1="0" y1="7" x2="10.5" y2="7" id="Path" stroke="#FFFFFF" stroke-width="2"></line>
+        <polyline id="Path-2" stroke="#FFFFFF" stroke-width="2" points="4.5 1 10.5 7 4.5 13"></polyline>
+    </g>
+</svg>
